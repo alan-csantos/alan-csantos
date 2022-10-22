@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e busco estar sempre atualizado sobre as novidades
 
 ---
 
-💻 Atualmente trabalho como Analista de Suporte (Sistema ERP Varejo)
+💻 Atualmente trabalho como Analista de Suporte (Sistema ERP Varejo/Fiscal)
 
 💙 Fã de tecnologia e inovação
 
@@ -15,7 +15,6 @@ Sou apaixonado por tecnologia e busco estar sempre atualizado sobre as novidades
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px"/>
 </div>
 
 ---
