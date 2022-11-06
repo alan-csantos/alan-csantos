@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 Atualmente trabalho como Analista de Suporte (Sistema ERP Varejo/Fiscal)<br><br>💙 Fã de tecnologia e inovação<br><br>👩‍💻 Estudando Data Science
-<br><br>
+<br><br>🤓Estudande de Engenharia de Software
 # Sejam bem vindos ao meu GitHub 🤓
 Sou apaixonado por tecnologia e busco estar sempre atualizado sobre as novidades do mercado. Acredito que Data Science é uma área que tem potencial para impactar negócios e pessoas de forma positiva. Por isso, busco aprender mais sobre esse assunto e compartilhar meus conhecimentos com outras pessoas. Espero poder contribuir para o avanço do Data Science e do mercado de tecnologia com minhas ações e pesquisas.
 
