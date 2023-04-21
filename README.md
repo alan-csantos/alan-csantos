@@ -13,6 +13,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alan-csantos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-csantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div>
+<a href="https://github.com/alan-csantos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-csantos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-csantos-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
