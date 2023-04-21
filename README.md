@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre:
 💻Sobre o meu trabalho:<br>Atualmente, sou Analista de Dados na Fiabilité, onde utilizo meu conhecimento em SQL ajudando o time a impulsionar o sucesso de nossos clientes.<br><br>💙Sobre minha paixão:<br>Sou um verdadeiro aficionado por tecnologia e inovação. Constantemente, estou buscando me atualizar e me aprimorar, ávido por descobrir as últimas tendências e desenvolvimentos na área.<br><br>🤓Sobre meus estudos:<br>Estou mergulhado em estudos de SQL, Java e Python, sempre buscando aprimorar minhas habilidades em desenvolvimento de software. Além disso, estou estudando Engenharia de Software, a fim de me tornar um profissional ainda mais completo.<br><br>👩‍💻Sobre minha postura profissional:<br>Busco incansavelmente aprender e crescer profissionalmente, e estou sempre em busca de projetos desafiadores e interessantes para aplicar minhas habilidades. Mal posso esperar para contribuir com minha experiência para novos projetos.
 
 
