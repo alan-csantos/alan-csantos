@@ -1,18 +1,48 @@
-# 💫 Sobre:
-💻Sobre o meu trabalho:<br>Atualmente, sou Analista de Dados na Fiabilité, onde utilizo meu conhecimento em SQL ajudando o time a impulsionar o sucesso de nossos clientes.<br><br>💙Sobre minha paixão:<br>Sou um verdadeiro aficionado por tecnologia e inovação. Constantemente, estou buscando me atualizar e me aprimorar, ávido por descobrir as últimas tendências e desenvolvimentos na área.<br><br>🤓Sobre meus estudos:<br>Estou mergulhado em estudos de SQL, Java e Python, sempre buscando aprimorar minhas habilidades em desenvolvimento de software. Além disso, estou estudando Engenharia de Software, a fim de me tornar um profissional ainda mais completo.<br><br>👩‍💻Sobre minha postura profissional:<br>Busco incansavelmente aprender e crescer profissionalmente, e estou sempre em busca de projetos desafiadores e interessantes para aplicar minhas habilidades. Mal posso esperar para contribuir com minha experiência para novos projetos.
+# 💫 Sobre Mim:
 
+Sou **Analista de Dados e Tech Lead** na Fiabilidade, apaixonado por explorar o potencial dos dados e transformá-los em estratégias de negócio claras e impactantes. No time Nexus, trabalho com tecnologias como SQL, Python, Databricks, PySpark e Airflow para construir soluções que impulsionam resultados.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csantos-alan) 
+🚀 Atualmente, meu foco principal de estudo e desenvolvimento está em:
+* Arquiteturas **Datalakehouse**
+* Soluções com **Databricks** e **PySpark**
+* Construção de pipelines de dados eficientes e escaláveis
+* Compartilhar conhecimento e boas práticas na área de dados
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
+📚 Neste espaço, você encontrará projetos de estudo, scripts e explorações no universo dos dados. Estou reativando meu processo de estudos e ansioso para compartilhar aprendizados e desafios superados por aqui nos próximos meses!
+
+---
+
+## 🔗 Conecte-se Comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/csantos-alan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/csantos.alan) ---
+
+## 💻 Minhas Ferramentas e Tecnologias Principais:
+
+**Linguagens & Bancos de Dados:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Plataformas de Dados, Big Data, Orquestração & ETL:**
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-%232A3945?style=for-the-badge&logo=pentaho&logoColor=white)
+
+**BI & Reporting:**
+![Jaspersoft](https://img.shields.io/badge/Jaspersoft-AC2522?style=for-the-badge&logo=jaspersoft&logoColor=white)
+
+**Cloud:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alan-csantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alan-csantos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-csantos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alan-csantos&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
