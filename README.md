@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-Sou **Analista de Dados e Tech Lead** na Fiabilidade, apaixonado por explorar o potencial dos dados e transformá-los em estratégias de negócio claras e impactantes. No time Nexus, trabalho com tecnologias como SQL, Python, Databricks, PySpark e Airflow para construir soluções que impulsionam resultados.
+Sou **Analista de Dados e Tech Lead** na Fiabilité, apaixonado por explorar o potencial dos dados e transformá-los em estratégias de negócio claras e impactantes. No time Nexus, trabalho com tecnologias como SQL, Python, Databricks, PySpark e Airflow para construir soluções que impulsionam resultados.
 
 🚀 Atualmente, meu foco principal de estudo e desenvolvimento está em:
 * Arquiteturas **Datalakehouse**
